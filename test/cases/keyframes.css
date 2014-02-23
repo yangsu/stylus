@@ -7,3 +7,18 @@
     color: #fff;
   }
 }
+@-webkit-keyframes k {
+  0% {
+    content: 1;
+  }
+}
+@-webkit-keyframes k {
+  0% {
+    content: 2;
+  }
+}
+@-webkit-keyframes k {
+  0% {
+    content: 3;
+  }
+}
